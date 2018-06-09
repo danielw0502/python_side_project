@@ -1,5 +1,4 @@
 import os
-import shutil
 from distutils.dir_util import copy_tree
 
 path = os.getcwd()
